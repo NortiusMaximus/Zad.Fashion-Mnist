@@ -1,0 +1,1 @@
+# Zad.Fashion-Mnist
