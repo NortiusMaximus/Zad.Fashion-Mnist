@@ -1,1 +1,2 @@
 # Zad.Fashion-Mnist
+Task
